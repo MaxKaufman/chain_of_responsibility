@@ -1,0 +1,12 @@
+{
+    "name": "sakh/chains-responsobility",
+    "require": {},
+    "require-dev": {
+      "phpunit/phpunit": "*"
+    },
+    "autoload": {
+      "psr-4": {
+        "": "src"
+      }
+    }
+}
